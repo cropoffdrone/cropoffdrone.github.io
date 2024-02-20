@@ -195,7 +195,7 @@ background-color: #000 !important;
 .sub-nav {
     height: 425px;/*480px;*/
     background-color: #000;
-    background-image: url("../images/background-fairytales-brand.jpg");
+    background-image: url("../images/background-image.jpg");
     no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
