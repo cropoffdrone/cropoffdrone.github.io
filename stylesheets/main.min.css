@@ -195,7 +195,7 @@ background-color: #000 !important;
 .sub-nav {
     height: 425px;/*480px;*/
     background-color: #000;
-    background-image: url("../images/background-image.jpg");
+    background-image: url("../images/background-image.png");
     no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -395,7 +395,7 @@ background-color: #000 !important;
 
 .page-content {
   margin-bottom: 35px;
-  background-color: rgb(93, 182, 170);
+  background-color: rgb(111, 127, 128);
 }
 
 .page-info {
@@ -939,7 +939,7 @@ background-color: #000 !important;
 .open-source>.open-source-image {
   display: inline-block;
   width: 255px;
-  height: 130px;
+  height: 255px;
   margin-top: 20px;
   margin-left: 20px;
   vertical-align: top;
