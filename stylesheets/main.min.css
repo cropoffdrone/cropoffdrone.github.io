@@ -33,7 +33,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 body {
   line-height: 1;
   min-width: 320px;
-  background-color:  rgb(169, 141, 180);
+  background-color:  rgb(98, 118, 148);
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -95,7 +95,7 @@ ul {
 
 .main-site,.site-header-top-bar {
   width: 100%;
-  background-color: rgb(169, 141, 180);
+  background-color: rgb(98, 118, 148);
 }
 
 .clear {
@@ -180,7 +180,7 @@ background-color: #000 !important;
 }
 
 .footer-bottom-bar,.footer-content,.site-footer,.sub-nav {
-  background-color: #5c3c64;
+  background-color: #2F3F59;
 }
 
 .main-nav-selector.current {
@@ -309,7 +309,7 @@ background-color: #000 !important;
 .footer-line {
   width: 100%;
   bottom: 12px;
-  border-bottom: 1px solid rgb(169, 141, 180);
+  border-bottom: 1px solid rgb(98, 118, 148);
 }
 
 .footer-content {
@@ -334,7 +334,7 @@ background-color: #000 !important;
 }
 
 .copyright>p {
-  color: rgb(169, 141, 180);
+  color: rgb(98, 118, 148);
   display: inline;
   padding-left: 3px;
   padding-right: 3px;
@@ -395,7 +395,7 @@ background-color: #000 !important;
 
 .page-content {
   margin-bottom: 35px;
-  background-color: rgb(111, 127, 128);
+  background-color: rgb(93, 182, 170);
 }
 
 .page-info {
@@ -405,7 +405,7 @@ background-color: #000 !important;
   margin-right: auto;
   margin-top: -25px;
   padding-bottom: 10px;
-  background-color: rgb(169, 141, 180);
+  background-color: rgb(98, 118, 148);
 }
 
 @media screen and (max-width:970px) {
@@ -427,7 +427,7 @@ background-color: #000 !important;
   display: inline-block;
   text-align: center;
   vertical-align: top;
-  background-color:#5c3c64;
+  background-color:#2F3F59;
   margin-top: 5px;
   position: relative;
   padding-left: 15px;
@@ -435,7 +435,7 @@ background-color: #000 !important;
 .page-header-os {
   margin-top: -30px;
   margin-bottom: 20px !important;
-  background-color: #5c3c64;
+  background-color: #2F3F59;
 }
 .page-header-title {
   display: inline-block;
@@ -929,7 +929,7 @@ background-color: #000 !important;
   position: relative;
   width: 850px;
   min-height: 170px;
-  background-color: rgb(169, 141, 180);
+  background-color: rgb(98, 118, 148);
   margin: 0 auto 30px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -939,7 +939,7 @@ background-color: #000 !important;
 .open-source>.open-source-image {
   display: inline-block;
   width: 255px;
-  height: 255px;
+  height: 130px;
   margin-top: 20px;
   margin-left: 20px;
   vertical-align: top;
@@ -948,11 +948,11 @@ background-color: #000 !important;
 }
 
 .open-source>.no-img {
-  background: #5c3c64;
+  background: #2F3F59;
 }
 
 .open-source>.open-source-image>span {
-  color: rgb(169, 141, 180);
+  color: rgb(98, 118, 148);
   display: table-cell;
   font-size: 30px;
   font-size: 1.875rem;
@@ -994,7 +994,7 @@ background-color: #000 !important;
   bottom: 0;
   width: 532px;
   height: 37px;
-  border-top: 1px solid #5c3c64;
+  border-top: 1px solid #2F3F59;
 }
 
 .open-source-content>.open-source-read-link>a {
@@ -1003,10 +1003,10 @@ background-color: #000 !important;
   position: absolute;
   bottom: 0;
   right: 0;
-  color: rgb(169, 141, 180);
+  color: rgb(98, 118, 148);
   font-size: 14px;
   font-size: .875rem;
-  background-color: #5c3c64;
+  background-color: #2F3F59;
   -webkit-border-radius: 0 0 4px;
   border-radius: 0 0 4px;
   padding: 11px 10px 11px 12px;
